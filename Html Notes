@@ -1,3 +1,13 @@
-<Strog>...</strong>        macht Fett
-<em>...</em>               wird Kursi
-<
+<h1> – <h6>	  Überschriften
+<p>	          Absatz
+<br>	        Zeilenumbruch
+<hr>	        Trennlinie
+<strong>	    Fett (wichtig)
+<em>	        Kursiv
+<mark>	      Markieren
+<small>	      Kleiner Text
+<a>	          Link
+<img>	        Bild
+href	        Ziel des Links
+src	          Bildquelle
+alt	          Bildbeschreibung
